@@ -13,6 +13,9 @@ Multiple models were trained and evaluated and the selected model for the projec
 # Requirements
 This project is written in Python to make use of several machine learning libraries like Tensorflow in order to work. 
 
+# Dataset
+The dataset consists of roughly 1200 images which I collected from Kirstenbosch Botanical Garden using a variety of different cameras and devices over a period of 2 weeks during July 2021. There are 56 species of plants, not all of which are Fynbos.
+
 # Model 1
 
 # Model 2
