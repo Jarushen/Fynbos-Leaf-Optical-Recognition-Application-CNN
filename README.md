@@ -16,6 +16,9 @@ This project is written in Python to make use of several machine learning librar
 # Dataset
 The dataset consists of roughly 1200 images which I collected from Kirstenbosch Botanical Garden using a variety of different cameras and devices over a period of 2 weeks during July 2021. There are 56 species of plants, not all of which are Fynbos.
 
+The dataset can be found here: 
+[
+](https://drive.google.com/drive/folders/108hxZOHH2zAz4afmpFowHe8trHEE9ZQ0?usp=sharing)
 # Model 1
 
 # Model 2
