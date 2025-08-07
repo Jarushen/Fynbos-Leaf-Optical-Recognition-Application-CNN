@@ -10,6 +10,15 @@ architecture to recognise species in photographs.   A simple test
 environment is included for quickly classifying new images and visualising
 SHAP explanations.
 
+The dataset used to train this model was manually created and can be accessed here:
+
+https://drive.google.com/drive/folders/11EpB1b3q7X9voYaSR5ghsv0J5E7pxhhQ?usp=sharing
+
+Please contact Jarushen Govender at govenderjarushen@gmail.com for any queries on the dataset.
+
+
+
+
 ## Repository structure
 
 ```
