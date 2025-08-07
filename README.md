@@ -6,9 +6,7 @@ a convolutional neural network (CNN) to identify fynbos species from images.
 Fynbos is a unique vegetation type found primarily in the Western Cape of
 South Africa. Accurate species identification can be challenging, so this
 project uses a transfer‐learning approach based on a pre–trained ResNet50
-architecture to recognise species in photographs.  The code here has been
-extracted from a collection of Jupyter notebooks supplied by the user and
-refactored into a clear, modular Python project structure.  A simple test
+architecture to recognise species in photographs.   A simple test
 environment is included for quickly classifying new images and visualising
 SHAP explanations.
 
